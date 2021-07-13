@@ -9,4 +9,4 @@ This repo is a simple Javascript calculator with Neumo design.
 
 ## Layout
 
-<h1 align="center> <img src="https://github.com/abass0/neumo-calculator/blob/master/css/calc.png" width="500" height="500"> </h1>
+![calculator](https://github.com/abass0/neumo-calculator/blob/master/css/calc.png)
